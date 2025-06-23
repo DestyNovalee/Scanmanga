@@ -1,9 +1,0 @@
-{
-  "name": "scanmanga-extension",
-  "version": "1.0.0",
-  "description": "Extension Paperback non officielle pour Scan-Manga.com",
-  "main": "source.ts",
-  "keywords": ["paperback", "manga", "scan", "fr"],
-  "author": "Destynovalee",
-  "license": "MIT"
-}
