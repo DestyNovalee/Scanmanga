@@ -1,0 +1,7 @@
+{
+    "id": "scanmanga.extension",
+    "name": "Scanmanga",
+    "version": "1.0.0",
+    "lang": "fr",
+    "entry": "Scanmanga.swift"
+}
